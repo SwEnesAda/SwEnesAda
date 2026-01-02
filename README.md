@@ -1,4 +1,4 @@
-[![MasterHead](https://www.istockphoto.com/tr/foto%C4%9Fraf/business-team-using-a-calculator-to-calculate-the-numbers-of-statistic-business-gm1483761921-510275895?utm_source=unsplash&utm_medium=affiliate&utm_campaign=adp_photos_sponsored&utm_content=https%3A%2F%2Funsplash.com%2Fphotos%2Fperson-in-blue-shirt-writing-on-white-paper-8mikJ83LmSQ&utm_term=research%3A%3A%3A%3A06c6c066-1f78-45a6-bd42-2b98e9a0d8d2)
+[![MasterHead](https://images.unsplash.com/photo-1515879218367-8466d910aaa4)
 
 <h1 align="center">Hi 👋, I'm Enes ADA.</h1>
 <h3 align="center">A newly graduated student from Çankaya university.</h3>
