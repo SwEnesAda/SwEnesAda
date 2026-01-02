@@ -1,4 +1,5 @@
-[![MasterHead](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=400&q=60
+[![MasterHead](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1024&q=70
+
 )
 
 <h1 align="center">Hi 👋, I'm Enes ADA.</h1>
