@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Enes ADA.</h1>
 <h3 align="center">A newly graduated student from Çankaya university.</h3>
 
-- 🌱 I’m currently learning **Front-end(Flutter), SQL, Cyber Security.**
+- 🌱 I’m currently learning **Front-end(Flutter), SQL.**
 
 - 👯 I’m looking to collaborate on **HelpingBlindPeople**
 
